@@ -2,7 +2,7 @@ from re import X
 # from scipy import cluster
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
+import matplotlib as plt
 import seaborn as sns
 import numpy as np
 from sklearn.cluster import KMeans, k_means
