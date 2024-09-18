@@ -1,4 +1,3 @@
-from scipy.spatial.distance import euclidean
 from re import X
 from scipy import cluster
 import streamlit as st
