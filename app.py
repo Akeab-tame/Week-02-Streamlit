@@ -1,5 +1,5 @@
 from re import X
-from scipy import cluster
+# from scipy import cluster
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
