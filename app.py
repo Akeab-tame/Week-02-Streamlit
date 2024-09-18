@@ -10,12 +10,7 @@ from sklearn.metrics import euclidean_distances
 from sklearn.metrics import pairwise_distances
 from sklearn.metrics.pairwise import euclidean_distances
 from sklearn.preprocessing import StandardScaler
-import sys
-import os
 
-sys.path.append(os.path.abspath(os.path.join('..')))
-
-# Sample Data Loading Function (Replace with your actual data source)
 # @st.cache
 def load_data():
     # Load dataset
